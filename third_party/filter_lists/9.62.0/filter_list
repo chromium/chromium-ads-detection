@@ -142,7 +142,6 @@
 ||pemsrv.com^$third-party
 ||yahoo.com/bidrequest
 @@||xhamster2.com^$script,~third-party
-||ultimedia.com/js/common/smart.js$third-party,script
 ||metricswpsh.com^$third-party
 ||ntvpforever.com^$third-party
 .php?adsid=
